@@ -74,7 +74,7 @@ Installation
 
 Clone the Repository:
 
-git clone 
+git clone https://github.com/premcharanbadri/The_Muse.git
 
 
 Install Dependencies:
